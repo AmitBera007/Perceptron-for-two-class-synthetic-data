@@ -1,4 +1,4 @@
-# Perceptron-for-two-class-synthetic-data
+# Perceptron for two class synthetic data
 This project allows for the annotation of 2D points using keyboard inputs and implements the Perceptron Learning Algorithm with different initialization strategies.
 
 ## Requirements
